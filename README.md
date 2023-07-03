@@ -1,4 +1,4 @@
 # yanfartech.github.io
 A website
 
-YANFAR(pronounced /'j√¶nf…ë:r/) is an IOT products + solutions provider. Its name is a recursive acronym for "YANFAR Are Never Forget All Responsibilities".
+YANFAR(pronounced /?j?nf®ª?r/) is an IOT products + solutions provider. Its name is a recursive acronym for "YANFAR Are Nice For Amazing Research".
